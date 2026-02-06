@@ -1,0 +1,4 @@
+persist_dir: "/home/wwan6344/phoebe_server/MDocAgent/index"
+embed_model: "BAAI/bge-large-en"
+top_k: 2
+llm: None

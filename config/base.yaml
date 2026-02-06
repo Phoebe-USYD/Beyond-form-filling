@@ -1,0 +1,41 @@
+# The structure of retrieval and multi_agents can be modified in this yaml file
+# agent and model configurations should be modified in their respective config folders
+
+defaults:
+  - retrieval: text # Change this to text/image when configuring retrieval
+  - _self_
+
+run-name: Full_system  # Experiment name
+
+dataset:
+  input_path: "mydatasets/q_with_profile.jsonl"
+  output_path: "outputs/llama_final.tsv"
+
+mdoc_agent:
+  cuda_visible_devices: '0'
+  truncate_len: null # Used for debugging; set to null for normal use
+  save_freq: 100 # Frequency of saving checkpoints
+  ans_key: ans_${run-name} # Key name for generated answers during prediction
+  save_message: false
+
+  agents:
+    - agent: general_agent
+      model: llama
+    
+    - agent: critical_agent
+      model: openai
+  
+  sum_agent:
+    agent: sum_agent
+    model: llama
+     
+  personal:
+    enabled: true
+
+eval:
+  model:
+    name: openai
+    # selected_org: org3
+  # mode: "mistral"
+  input_path: "outputs/gpt.tsv"
+  output_path: "results/RAG/gpt.csv"

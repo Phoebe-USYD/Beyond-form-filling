@@ -1,0 +1,500 @@
+{"profile_id": 1, "age": 45, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["aspirin allergy"]}
+{"profile_id": 2, "age": 31, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "iron deficiency anemia"], "allergies": ["NSAID allergy"]}
+{"profile_id": 3, "age": 47, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 4, "age": 28, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 5, "age": 46, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 6, "age": 59, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 7, "age": 72, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 8, "age": 74, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 9, "age": 35, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease"], "allergies": ["sulfa allergy"]}
+{"profile_id": 10, "age": 34, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["hypothyroidism", "chronic hepatitis B"], "allergies": ["aspirin allergy"]}
+{"profile_id": 11, "age": 19, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 12, "age": 72, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia", "anxiety Disorder"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 13, "age": 28, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 14, "age": 48, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["rheumatoid arthritis", "migraine"], "allergies": ["peanut allergy"]}
+{"profile_id": 15, "age": 67, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B", "hypothyroidism"], "allergies": ["none"]}
+{"profile_id": 16, "age": 24, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["egg allergy"]}
+{"profile_id": 17, "age": 84, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["shellfish allergy"]}
+{"profile_id": 18, "age": 27, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 19, "age": 37, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "hyperlipidemia"], "allergies": ["none"]}
+{"profile_id": 20, "age": 33, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia", "hypothyroidism"], "allergies": ["peanut allergy"]}
+{"profile_id": 21, "age": 69, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 22, "age": 23, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "migraine"], "allergies": ["egg allergy"]}
+{"profile_id": 23, "age": 32, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["sulfa allergy"]}
+{"profile_id": 24, "age": 27, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine"], "allergies": ["milk allergy"]}
+{"profile_id": 25, "age": 82, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 26, "age": 75, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["aspirin allergy"]}
+{"profile_id": 27, "age": 85, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 28, "age": 27, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["none"]}
+{"profile_id": 29, "age": 62, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 30, "age": 67, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 31, "age": 57, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 32, "age": 58, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["sulfa allergy"]}
+{"profile_id": 33, "age": 79, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "migraine"], "allergies": ["penicillin allergy"]}
+{"profile_id": 34, "age": 56, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 35, "age": 29, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "anxiety Disorder"], "allergies": ["penicillin allergy"]}
+{"profile_id": 36, "age": 57, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder", "chronic back pain"], "allergies": ["egg allergy"]}
+{"profile_id": 37, "age": 23, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis"], "allergies": ["shellfish allergy"]}
+{"profile_id": 38, "age": 62, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 39, "age": 75, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 40, "age": 83, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 41, "age": 32, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia", "hypertension"], "allergies": ["penicillin allergy"]}
+{"profile_id": 42, "age": 47, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 43, "age": 85, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "anxiety Disorder"], "allergies": ["peanut allergy"]}
+{"profile_id": 44, "age": 81, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "osteoarthritis"], "allergies": ["NSAID allergy"]}
+{"profile_id": 45, "age": 54, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 46, "age": 46, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["NSAID allergy"]}
+{"profile_id": 47, "age": 41, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 48, "age": 37, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes"], "allergies": ["tree nut allergy"]}
+{"profile_id": 49, "age": 75, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 50, "age": 37, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["shellfish allergy"]}
+{"profile_id": 51, "age": 61, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 52, "age": 36, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 53, "age": 23, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["shellfish allergy"]}
+{"profile_id": 54, "age": 71, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 55, "age": 32, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "chronic kidney disease"], "allergies": ["peanut allergy"]}
+{"profile_id": 56, "age": 62, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["shellfish allergy"]}
+{"profile_id": 57, "age": 52, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "hypothyroidism"], "allergies": ["tree nut allergy"]}
+{"profile_id": 58, "age": 49, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["penicillin allergy"]}
+{"profile_id": 59, "age": 52, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "rheumatoid arthritis"], "allergies": ["milk allergy"]}
+{"profile_id": 60, "age": 61, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 61, "age": 64, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 62, "age": 56, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 63, "age": 56, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 64, "age": 27, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["egg allergy"]}
+{"profile_id": 65, "age": 64, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "chronic hepatitis B"], "allergies": ["shellfish allergy"]}
+{"profile_id": 66, "age": 39, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 67, "age": 56, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["shellfish allergy"]}
+{"profile_id": 68, "age": 22, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["tree nut allergy"]}
+{"profile_id": 69, "age": 27, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine", "chronic hepatitis B"], "allergies": ["none"]}
+{"profile_id": 70, "age": 59, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 71, "age": 79, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "chronic back pain"], "allergies": ["NSAID allergy"]}
+{"profile_id": 72, "age": 73, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 73, "age": 18, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["chronic back pain", "depression"], "allergies": ["aspirin allergy"]}
+{"profile_id": 74, "age": 68, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension"], "allergies": ["milk allergy"]}
+{"profile_id": 75, "age": 82, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 76, "age": 43, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "chronic hepatitis B"], "allergies": ["peanut allergy"]}
+{"profile_id": 77, "age": 49, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["migraine", "hyperlipidemia"], "allergies": ["shellfish allergy"]}
+{"profile_id": 78, "age": 72, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["egg allergy"]}
+{"profile_id": 79, "age": 45, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 80, "age": 58, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism"], "allergies": ["NSAID allergy"]}
+{"profile_id": 81, "age": 35, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "hypothyroidism"], "allergies": ["egg allergy"]}
+{"profile_id": 82, "age": 77, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "hypothyroidism"], "allergies": ["penicillin allergy"]}
+{"profile_id": 83, "age": 24, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 84, "age": 40, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 85, "age": 34, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 86, "age": 66, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 87, "age": 45, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 88, "age": 48, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 89, "age": 63, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis"], "allergies": ["egg allergy"]}
+{"profile_id": 90, "age": 64, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 91, "age": 54, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "anxiety Disorder"], "allergies": ["milk allergy"]}
+{"profile_id": 92, "age": 39, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 93, "age": 81, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "migraine"], "allergies": ["egg allergy"]}
+{"profile_id": 94, "age": 29, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 95, "age": 52, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 96, "age": 74, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["milk allergy"]}
+{"profile_id": 97, "age": 25, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis"], "allergies": ["none"]}
+{"profile_id": 98, "age": 82, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma", "chronic back pain"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 99, "age": 21, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 100, "age": 78, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 101, "age": 75, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["milk allergy"]}
+{"profile_id": 102, "age": 32, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["chronic back pain", "chronic back pain"], "allergies": ["aspirin allergy"]}
+{"profile_id": 103, "age": 19, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 104, "age": 43, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder", "hyperlipidemia"], "allergies": ["sulfa allergy"]}
+{"profile_id": 105, "age": 29, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism", "osteoarthritis"], "allergies": ["peanut allergy"]}
+{"profile_id": 106, "age": 24, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 107, "age": 31, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma"], "allergies": ["aspirin allergy"]}
+{"profile_id": 108, "age": 72, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["none"]}
+{"profile_id": 109, "age": 71, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 110, "age": 70, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "chronic kidney disease"], "allergies": ["peanut allergy"]}
+{"profile_id": 111, "age": 68, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 112, "age": 52, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "hypothyroidism"], "allergies": ["peanut allergy"]}
+{"profile_id": 113, "age": 65, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 114, "age": 40, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma", "migraine"], "allergies": ["peanut allergy"]}
+{"profile_id": 115, "age": 23, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B"], "allergies": ["egg allergy"]}
+{"profile_id": 116, "age": 29, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 117, "age": 23, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 118, "age": 18, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["iron deficiency anemia", "osteoarthritis"], "allergies": ["peanut allergy"]}
+{"profile_id": 119, "age": 52, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine", "anxiety Disorder"], "allergies": ["tree nut allergy"]}
+{"profile_id": 120, "age": 65, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B"], "allergies": ["none"]}
+{"profile_id": 121, "age": 41, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["aspirin allergy"]}
+{"profile_id": 122, "age": 48, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 123, "age": 82, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["peanut allergy"]}
+{"profile_id": 124, "age": 41, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia", "gout"], "allergies": ["shellfish allergy"]}
+{"profile_id": 125, "age": 29, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 126, "age": 33, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease"], "allergies": ["penicillin allergy"]}
+{"profile_id": 127, "age": 82, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["shellfish allergy"]}
+{"profile_id": 128, "age": 75, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism", "anxiety Disorder"], "allergies": ["peanut allergy"]}
+{"profile_id": 129, "age": 49, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 130, "age": 19, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia", "migraine"], "allergies": ["peanut allergy"]}
+{"profile_id": 131, "age": 77, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "chronic back pain"], "allergies": ["shellfish allergy"]}
+{"profile_id": 132, "age": 53, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout"], "allergies": ["NSAID allergy"]}
+{"profile_id": 133, "age": 21, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 134, "age": 65, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B"], "allergies": ["shellfish allergy"]}
+{"profile_id": 135, "age": 34, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes"], "allergies": ["peanut allergy"]}
+{"profile_id": 136, "age": 83, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "osteoarthritis"], "allergies": ["tree nut allergy"]}
+{"profile_id": 137, "age": 47, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 138, "age": 81, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "chronic back pain"], "allergies": ["none"]}
+{"profile_id": 139, "age": 51, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["none"]}
+{"profile_id": 140, "age": 45, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 141, "age": 30, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["milk allergy"]}
+{"profile_id": 142, "age": 53, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 143, "age": 49, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["NSAID allergy"]}
+{"profile_id": 144, "age": 34, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["sulfa allergy"]}
+{"profile_id": 145, "age": 31, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 146, "age": 35, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine"], "allergies": ["aspirin allergy"]}
+{"profile_id": 147, "age": 22, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism"], "allergies": ["sulfa allergy"]}
+{"profile_id": 148, "age": 52, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease"], "allergies": ["sulfa allergy"]}
+{"profile_id": 149, "age": 23, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma"], "allergies": ["penicillin allergy"]}
+{"profile_id": 150, "age": 69, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "migraine"], "allergies": ["aspirin allergy"]}
+{"profile_id": 151, "age": 60, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["NSAID allergy"]}
+{"profile_id": 152, "age": 70, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "chronic back pain"], "allergies": ["NSAID allergy"]}
+{"profile_id": 153, "age": 65, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B"], "allergies": ["peanut allergy"]}
+{"profile_id": 154, "age": 36, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["milk allergy"]}
+{"profile_id": 155, "age": 57, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 156, "age": 40, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia", "osteoarthritis"], "allergies": ["aspirin allergy"]}
+{"profile_id": 157, "age": 20, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "osteoarthritis"], "allergies": ["none"]}
+{"profile_id": 158, "age": 81, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 159, "age": 67, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["shellfish allergy"]}
+{"profile_id": 160, "age": 57, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["sulfa allergy"]}
+{"profile_id": 161, "age": 26, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism", "anxiety Disorder"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 162, "age": 27, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 163, "age": 75, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 164, "age": 29, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["gout"], "allergies": ["sulfa allergy"]}
+{"profile_id": 165, "age": 80, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B"], "allergies": ["egg allergy"]}
+{"profile_id": 166, "age": 67, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["aspirin allergy"]}
+{"profile_id": 167, "age": 34, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 168, "age": 80, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 169, "age": 38, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 170, "age": 53, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 171, "age": 58, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "osteoarthritis"], "allergies": ["milk allergy"]}
+{"profile_id": 172, "age": 24, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 173, "age": 22, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 174, "age": 84, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 175, "age": 61, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["sulfa allergy"]}
+{"profile_id": 176, "age": 76, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 177, "age": 79, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["milk allergy"]}
+{"profile_id": 178, "age": 29, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 179, "age": 41, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 180, "age": 63, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension"], "allergies": ["peanut allergy"]}
+{"profile_id": 181, "age": 43, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "osteoarthritis"], "allergies": ["egg allergy"]}
+{"profile_id": 182, "age": 20, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["penicillin allergy"]}
+{"profile_id": 183, "age": 36, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine", "osteoarthritis"], "allergies": ["peanut allergy"]}
+{"profile_id": 184, "age": 42, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis", "osteoarthritis"], "allergies": ["milk allergy"]}
+{"profile_id": 185, "age": 65, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism", "osteoarthritis"], "allergies": ["peanut allergy"]}
+{"profile_id": 186, "age": 85, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 187, "age": 79, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B"], "allergies": ["NSAID allergy"]}
+{"profile_id": 188, "age": 33, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine"], "allergies": ["aspirin allergy"]}
+{"profile_id": 189, "age": 26, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "chronic back pain"], "allergies": ["peanut allergy"]}
+{"profile_id": 190, "age": 25, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "type 2 diabetes"], "allergies": ["egg allergy"]}
+{"profile_id": 191, "age": 71, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism"], "allergies": ["peanut allergy"]}
+{"profile_id": 192, "age": 65, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma"], "allergies": ["milk allergy"]}
+{"profile_id": 193, "age": 25, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes"], "allergies": ["penicillin allergy"]}
+{"profile_id": 194, "age": 69, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "hyperlipidemia"], "allergies": ["aspirin allergy"]}
+{"profile_id": 195, "age": 38, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 196, "age": 84, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 197, "age": 76, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "asthma"], "allergies": ["peanut allergy"]}
+{"profile_id": 198, "age": 56, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 199, "age": 79, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 200, "age": 69, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "anxiety Disorder"], "allergies": ["shellfish allergy"]}
+{"profile_id": 201, "age": 48, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 202, "age": 58, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 203, "age": 29, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism", "depression"], "allergies": ["milk allergy"]}
+{"profile_id": 204, "age": 30, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 205, "age": 69, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["NSAID allergy"]}
+{"profile_id": 206, "age": 48, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia", "hypertension"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 207, "age": 50, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["egg allergy"]}
+{"profile_id": 208, "age": 41, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 209, "age": 75, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 210, "age": 33, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["milk allergy"]}
+{"profile_id": 211, "age": 77, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 212, "age": 27, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 213, "age": 76, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine"], "allergies": ["shellfish allergy"]}
+{"profile_id": 214, "age": 59, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 215, "age": 65, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 216, "age": 32, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease"], "allergies": ["none"]}
+{"profile_id": 217, "age": 78, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism"], "allergies": ["penicillin allergy"]}
+{"profile_id": 218, "age": 81, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "rheumatoid arthritis"], "allergies": ["egg allergy"]}
+{"profile_id": 219, "age": 74, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout"], "allergies": ["sulfa allergy"]}
+{"profile_id": 220, "age": 74, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["aspirin allergy"]}
+{"profile_id": 221, "age": 55, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 222, "age": 31, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 223, "age": 28, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 224, "age": 21, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes"], "allergies": ["sulfa allergy"]}
+{"profile_id": 225, "age": 84, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 226, "age": 28, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma"], "allergies": ["tree nut allergy"]}
+{"profile_id": 227, "age": 26, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 228, "age": 74, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "depression"], "allergies": ["egg allergy"]}
+{"profile_id": 229, "age": 41, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B", "osteoarthritis"], "allergies": ["NSAID allergy"]}
+{"profile_id": 230, "age": 22, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 231, "age": 44, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism", "anxiety Disorder"], "allergies": ["egg allergy"]}
+{"profile_id": 232, "age": 70, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 233, "age": 83, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension"], "allergies": ["penicillin allergy"]}
+{"profile_id": 234, "age": 57, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "depression"], "allergies": ["tree nut allergy"]}
+{"profile_id": 235, "age": 22, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 236, "age": 65, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 237, "age": 64, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["penicillin allergy"]}
+{"profile_id": 238, "age": 18, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "migraine"], "allergies": ["egg allergy"]}
+{"profile_id": 239, "age": 77, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder", "chronic kidney disease"], "allergies": ["sulfa allergy"]}
+{"profile_id": 240, "age": 72, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 241, "age": 59, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 242, "age": 74, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism", "chronic hepatitis B"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 243, "age": 35, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 244, "age": 60, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 245, "age": 42, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes"], "allergies": ["tree nut allergy"]}
+{"profile_id": 246, "age": 37, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["NSAID allergy"]}
+{"profile_id": 247, "age": 37, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine"], "allergies": ["aspirin allergy"]}
+{"profile_id": 248, "age": 45, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["shellfish allergy"]}
+{"profile_id": 249, "age": 35, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension"], "allergies": ["egg allergy"]}
+{"profile_id": 250, "age": 35, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism"], "allergies": ["NSAID allergy"]}
+{"profile_id": 251, "age": 71, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 252, "age": 40, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "anxiety Disorder"], "allergies": ["tree nut allergy"]}
+{"profile_id": 253, "age": 20, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["NSAID allergy"]}
+{"profile_id": 254, "age": 84, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["sulfa allergy"]}
+{"profile_id": 255, "age": 27, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine", "osteoarthritis"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 256, "age": 70, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["NSAID allergy"]}
+{"profile_id": 257, "age": 38, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 258, "age": 62, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 259, "age": 75, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 260, "age": 70, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "migraine"], "allergies": ["none"]}
+{"profile_id": 261, "age": 68, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "chronic back pain"], "allergies": ["tree nut allergy"]}
+{"profile_id": 262, "age": 67, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "osteoarthritis"], "allergies": ["none"]}
+{"profile_id": 263, "age": 40, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia", "type 2 diabetes"], "allergies": ["penicillin allergy"]}
+{"profile_id": 264, "age": 30, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["egg allergy"]}
+{"profile_id": 265, "age": 44, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["chronic hepatitis B", "rheumatoid arthritis"], "allergies": ["shellfish allergy"]}
+{"profile_id": 266, "age": 55, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma"], "allergies": ["peanut allergy"]}
+{"profile_id": 267, "age": 81, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia", "asthma"], "allergies": ["aspirin allergy"]}
+{"profile_id": 268, "age": 73, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["NSAID allergy"]}
+{"profile_id": 269, "age": 41, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "gout"], "allergies": ["NSAID allergy"]}
+{"profile_id": 270, "age": 53, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "type 2 diabetes"], "allergies": ["penicillin allergy"]}
+{"profile_id": 271, "age": 31, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 272, "age": 58, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["NSAID allergy"]}
+{"profile_id": 273, "age": 31, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["NSAID allergy"]}
+{"profile_id": 274, "age": 28, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "depression"], "allergies": ["shellfish allergy"]}
+{"profile_id": 275, "age": 34, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma", "chronic kidney disease"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 276, "age": 53, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism"], "allergies": ["tree nut allergy"]}
+{"profile_id": 277, "age": 58, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "osteoarthritis"], "allergies": ["aspirin allergy"]}
+{"profile_id": 278, "age": 67, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine", "hypothyroidism"], "allergies": ["NSAID allergy"]}
+{"profile_id": 279, "age": 57, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma", "chronic back pain"], "allergies": ["egg allergy"]}
+{"profile_id": 280, "age": 35, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["migraine", "chronic back pain"], "allergies": ["peanut allergy"]}
+{"profile_id": 281, "age": 31, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "hypertension"], "allergies": ["tree nut allergy"]}
+{"profile_id": 282, "age": 78, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "rheumatoid arthritis"], "allergies": ["sulfa allergy"]}
+{"profile_id": 283, "age": 57, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "iron deficiency anemia"], "allergies": ["none"]}
+{"profile_id": 284, "age": 33, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis"], "allergies": ["aspirin allergy"]}
+{"profile_id": 285, "age": 59, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 286, "age": 56, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma", "chronic back pain"], "allergies": ["penicillin allergy"]}
+{"profile_id": 287, "age": 24, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "type 2 diabetes"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 288, "age": 41, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "depression"], "allergies": ["sulfa allergy"]}
+{"profile_id": 289, "age": 78, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 290, "age": 65, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 291, "age": 78, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 292, "age": 38, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 293, "age": 19, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 294, "age": 60, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["peanut allergy"]}
+{"profile_id": 295, "age": 64, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "osteoarthritis"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 296, "age": 31, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 297, "age": 42, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension"], "allergies": ["sulfa allergy"]}
+{"profile_id": 298, "age": 37, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "asthma"], "allergies": ["aspirin allergy"]}
+{"profile_id": 299, "age": 84, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "hypothyroidism"], "allergies": ["peanut allergy"]}
+{"profile_id": 300, "age": 44, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma", "osteoarthritis"], "allergies": ["none"]}
+{"profile_id": 301, "age": 41, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 302, "age": 19, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia", "asthma"], "allergies": ["milk allergy"]}
+{"profile_id": 303, "age": 72, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 304, "age": 77, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["penicillin allergy"]}
+{"profile_id": 305, "age": 77, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "hyperlipidemia"], "allergies": ["none"]}
+{"profile_id": 306, "age": 34, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["penicillin allergy"]}
+{"profile_id": 307, "age": 78, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 308, "age": 66, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 309, "age": 50, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 310, "age": 36, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism"], "allergies": ["none"]}
+{"profile_id": 311, "age": 70, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "iron deficiency anemia"], "allergies": ["tree nut allergy"]}
+{"profile_id": 312, "age": 51, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 313, "age": 27, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["egg allergy"]}
+{"profile_id": 314, "age": 34, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "migraine"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 315, "age": 83, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 316, "age": 18, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "iron deficiency anemia"], "allergies": ["tree nut allergy"]}
+{"profile_id": 317, "age": 35, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 318, "age": 71, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 319, "age": 59, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout"], "allergies": ["none"]}
+{"profile_id": 320, "age": 33, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "migraine"], "allergies": ["shellfish allergy"]}
+{"profile_id": 321, "age": 30, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout"], "allergies": ["shellfish allergy"]}
+{"profile_id": 322, "age": 40, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia", "gastroesophageal reflux disease"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 323, "age": 70, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder", "hypothyroidism"], "allergies": ["milk allergy"]}
+{"profile_id": 324, "age": 81, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["penicillin allergy"]}
+{"profile_id": 325, "age": 42, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "iron deficiency anemia"], "allergies": ["penicillin allergy"]}
+{"profile_id": 326, "age": 60, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 327, "age": 54, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 328, "age": 72, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "type 2 diabetes"], "allergies": ["penicillin allergy"]}
+{"profile_id": 329, "age": 72, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 330, "age": 75, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["egg allergy"]}
+{"profile_id": 331, "age": 47, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["penicillin allergy"]}
+{"profile_id": 332, "age": 50, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma"], "allergies": ["aspirin allergy"]}
+{"profile_id": 333, "age": 46, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 334, "age": 79, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 335, "age": 41, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder", "chronic hepatitis B"], "allergies": ["shellfish allergy"]}
+{"profile_id": 336, "age": 76, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "chronic back pain"], "allergies": ["peanut allergy"]}
+{"profile_id": 337, "age": 54, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 338, "age": 20, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["aspirin allergy"]}
+{"profile_id": 339, "age": 63, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis", "osteoarthritis"], "allergies": ["sulfa allergy"]}
+{"profile_id": 340, "age": 44, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "anxiety Disorder"], "allergies": ["milk allergy"]}
+{"profile_id": 341, "age": 55, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine", "anxiety Disorder"], "allergies": ["milk allergy"]}
+{"profile_id": 342, "age": 24, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["penicillin allergy"]}
+{"profile_id": 343, "age": 30, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes"], "allergies": ["milk allergy"]}
+{"profile_id": 344, "age": 40, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["tree nut allergy"]}
+{"profile_id": 345, "age": 78, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 346, "age": 68, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["none"]}
+{"profile_id": 347, "age": 50, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "hyperlipidemia"], "allergies": ["egg allergy"]}
+{"profile_id": 348, "age": 68, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 349, "age": 49, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 350, "age": 48, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis", "migraine"], "allergies": ["shellfish allergy"]}
+{"profile_id": 351, "age": 85, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "type 2 diabetes"], "allergies": ["milk allergy"]}
+{"profile_id": 352, "age": 43, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["chronic kidney disease", "type 2 diabetes"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 353, "age": 26, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["chronic back pain", "chronic back pain"], "allergies": ["penicillin allergy"]}
+{"profile_id": 354, "age": 45, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 355, "age": 65, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 356, "age": 20, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 357, "age": 44, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 358, "age": 28, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 359, "age": 85, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "chronic hepatitis B"], "allergies": ["NSAID allergy"]}
+{"profile_id": 360, "age": 76, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "chronic back pain"], "allergies": ["none"]}
+{"profile_id": 361, "age": 55, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "hyperlipidemia"], "allergies": ["peanut allergy"]}
+{"profile_id": 362, "age": 65, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "asthma"], "allergies": ["none"]}
+{"profile_id": 363, "age": 44, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "migraine"], "allergies": ["shellfish allergy"]}
+{"profile_id": 364, "age": 36, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["tree nut allergy"]}
+{"profile_id": 365, "age": 49, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes"], "allergies": ["milk allergy"]}
+{"profile_id": 366, "age": 36, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease"], "allergies": ["sulfa allergy"]}
+{"profile_id": 367, "age": 37, "gender": "female", "pregnancy_status": "pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["egg allergy"]}
+{"profile_id": 368, "age": 57, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension"], "allergies": ["NSAID allergy"]}
+{"profile_id": 369, "age": 22, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma", "type 2 diabetes"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 370, "age": 64, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "asthma"], "allergies": ["aspirin allergy"]}
+{"profile_id": 371, "age": 63, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["egg allergy"]}
+{"profile_id": 372, "age": 53, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 373, "age": 23, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "osteoarthritis"], "allergies": ["aspirin allergy"]}
+{"profile_id": 374, "age": 48, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "asthma"], "allergies": ["milk allergy"]}
+{"profile_id": 375, "age": 55, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "chronic back pain"], "allergies": ["aspirin allergy"]}
+{"profile_id": 376, "age": 41, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 377, "age": 41, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "gastroesophageal reflux disease"], "allergies": ["shellfish allergy"]}
+{"profile_id": 378, "age": 47, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["milk allergy"]}
+{"profile_id": 379, "age": 56, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B", "gastroesophageal reflux disease"], "allergies": ["peanut allergy"]}
+{"profile_id": 380, "age": 25, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 381, "age": 74, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 382, "age": 29, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 383, "age": 67, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 384, "age": 77, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 385, "age": 37, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 386, "age": 36, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 387, "age": 41, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder"], "allergies": ["milk allergy"]}
+{"profile_id": 388, "age": 34, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "gastroesophageal reflux disease"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 389, "age": 74, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "hypothyroidism"], "allergies": ["shellfish allergy"]}
+{"profile_id": 390, "age": 29, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout"], "allergies": ["none"]}
+{"profile_id": 391, "age": 81, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 392, "age": 31, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["tree nut allergy"]}
+{"profile_id": 393, "age": 28, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 394, "age": 84, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 395, "age": 84, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 396, "age": 44, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["peanut allergy"]}
+{"profile_id": 397, "age": 34, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["aspirin allergy"]}
+{"profile_id": 398, "age": 62, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["milk allergy"]}
+{"profile_id": 399, "age": 34, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["aspirin allergy"]}
+{"profile_id": 400, "age": 46, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 401, "age": 50, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia", "hypertension"], "allergies": ["none"]}
+{"profile_id": 402, "age": 27, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 403, "age": 50, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["egg allergy"]}
+{"profile_id": 404, "age": 28, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 405, "age": 71, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["none"]}
+{"profile_id": 406, "age": 19, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "chronic back pain"], "allergies": ["peanut allergy"]}
+{"profile_id": 407, "age": 18, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis"], "allergies": ["none"]}
+{"profile_id": 408, "age": 59, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis"], "allergies": ["none"]}
+{"profile_id": 409, "age": 42, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia", "chronic back pain"], "allergies": ["none"]}
+{"profile_id": 410, "age": 43, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes"], "allergies": ["penicillin allergy"]}
+{"profile_id": 411, "age": 53, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["asthma"], "allergies": ["NSAID allergy"]}
+{"profile_id": 412, "age": 51, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 413, "age": 57, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine"], "allergies": ["penicillin allergy"]}
+{"profile_id": 414, "age": 80, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "asthma"], "allergies": ["sulfa allergy"]}
+{"profile_id": 415, "age": 38, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["sulfa allergy"]}
+{"profile_id": 416, "age": 74, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 417, "age": 51, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 418, "age": 70, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder", "chronic hepatitis B"], "allergies": ["none"]}
+{"profile_id": 419, "age": 68, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 420, "age": 54, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 421, "age": 66, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["NSAID allergy"]}
+{"profile_id": 422, "age": 43, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 423, "age": 49, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine", "hyperlipidemia"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 424, "age": 43, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 425, "age": 53, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease", "rheumatoid arthritis"], "allergies": ["aspirin allergy"]}
+{"profile_id": 426, "age": 47, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 427, "age": 53, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "depression"], "allergies": ["none"]}
+{"profile_id": 428, "age": 21, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 429, "age": 84, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 430, "age": 47, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "rheumatoid arthritis"], "allergies": ["penicillin allergy"]}
+{"profile_id": 431, "age": 71, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "chronic hepatitis B"], "allergies": ["penicillin allergy"]}
+{"profile_id": 432, "age": 19, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 433, "age": 23, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 434, "age": 30, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["sulfa allergy"]}
+{"profile_id": 435, "age": 78, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["gastroesophageal reflux disease", "osteoarthritis"], "allergies": ["tree nut allergy"]}
+{"profile_id": 436, "age": 46, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["type 2 diabetes", "hypothyroidism"], "allergies": ["aspirin allergy"]}
+{"profile_id": 437, "age": 36, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "migraine"], "allergies": ["sulfa allergy"]}
+{"profile_id": 438, "age": 24, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["anxiety Disorder", "osteoarthritis"], "allergies": ["tree nut allergy"]}
+{"profile_id": 439, "age": 63, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["milk allergy"]}
+{"profile_id": 440, "age": 80, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 441, "age": 79, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 442, "age": 73, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 443, "age": 37, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["sulfa allergy"]}
+{"profile_id": 444, "age": 67, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism", "osteoarthritis"], "allergies": ["aspirin allergy"]}
+{"profile_id": 445, "age": 37, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 446, "age": 41, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["migraine"], "allergies": ["peanut allergy"]}
+{"profile_id": 447, "age": 49, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 448, "age": 50, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["milk allergy"]}
+{"profile_id": 449, "age": 32, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 450, "age": 57, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia", "osteoarthritis"], "allergies": ["peanut allergy"]}
+{"profile_id": 451, "age": 37, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "type 2 diabetes"], "allergies": ["penicillin allergy"]}
+{"profile_id": 452, "age": 42, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 453, "age": 64, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "hypertension"], "allergies": ["shellfish allergy"]}
+{"profile_id": 454, "age": 79, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["tree nut allergy"]}
+{"profile_id": 455, "age": 27, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 456, "age": 32, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "chronic back pain"], "allergies": ["egg allergy"]}
+{"profile_id": 457, "age": 19, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["shellfish allergy"]}
+{"profile_id": 458, "age": 37, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["penicillin allergy"]}
+{"profile_id": 459, "age": 71, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 460, "age": 21, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["sulfa allergy"]}
+{"profile_id": 461, "age": 53, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis"], "allergies": ["none"]}
+{"profile_id": 462, "age": 24, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia"], "allergies": ["aspirin allergy"]}
+{"profile_id": 463, "age": 20, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["aspirin allergy"]}
+{"profile_id": 464, "age": 47, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hyperlipidemia"], "allergies": ["milk allergy"]}
+{"profile_id": 465, "age": 48, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B", "asthma"], "allergies": ["aspirin allergy"]}
+{"profile_id": 466, "age": 70, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression"], "allergies": ["egg allergy"]}
+{"profile_id": 467, "age": 65, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "anxiety Disorder"], "allergies": ["NSAID allergy"]}
+{"profile_id": 468, "age": 76, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["NSAID allergy"]}
+{"profile_id": 469, "age": 64, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 470, "age": 37, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension"], "allergies": ["shellfish allergy"]}
+{"profile_id": 471, "age": 76, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["shellfish allergy"]}
+{"profile_id": 472, "age": 74, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "gout"], "allergies": ["none"]}
+{"profile_id": 473, "age": 69, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["peanut allergy"]}
+{"profile_id": 474, "age": 70, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 475, "age": 40, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain"], "allergies": ["peanut allergy"]}
+{"profile_id": 476, "age": 43, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["depression", "hyperlipidemia"], "allergies": ["tree nut allergy"]}
+{"profile_id": 477, "age": 33, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 478, "age": 63, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis"], "allergies": ["shellfish allergy"]}
+{"profile_id": 479, "age": 66, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "depression"], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 480, "age": 24, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["gout", "migraine"], "allergies": ["aspirin allergy"]}
+{"profile_id": 481, "age": 18, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic kidney disease"], "allergies": ["aspirin allergy"]}
+{"profile_id": 482, "age": 30, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 483, "age": 55, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis", "chronic back pain"], "allergies": ["NSAID allergy"]}
+{"profile_id": 484, "age": 38, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis"], "allergies": ["tree nut allergy"]}
+{"profile_id": 485, "age": 29, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B", "osteoarthritis"], "allergies": ["peanut allergy"]}
+{"profile_id": 486, "age": 84, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["tree nut allergy"]}
+{"profile_id": 487, "age": 53, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["osteoarthritis", "chronic back pain"], "allergies": ["milk allergy"]}
+{"profile_id": 488, "age": 56, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["peanut allergy"]}
+{"profile_id": 489, "age": 32, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["none"]}
+{"profile_id": 490, "age": 69, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["rheumatoid arthritis"], "allergies": ["milk allergy"]}
+{"profile_id": 491, "age": 73, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["cephalosporin allergy"]}
+{"profile_id": 492, "age": 18, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism"], "allergies": ["egg allergy"]}
+{"profile_id": 493, "age": 37, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["sulfa allergy"]}
+{"profile_id": 494, "age": 19, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["iron deficiency anemia", "hypertension"], "allergies": ["sulfa allergy"]}
+{"profile_id": 495, "age": 34, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypertension", "migraine"], "allergies": ["penicillin allergy"]}
+{"profile_id": 496, "age": 32, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism", "chronic hepatitis B"], "allergies": ["peanut allergy"]}
+{"profile_id": 497, "age": 76, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["hypothyroidism"], "allergies": ["peanut allergy"]}
+{"profile_id": 498, "age": 20, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic back pain", "chronic back pain"], "allergies": ["egg allergy"]}
+{"profile_id": 499, "age": 54, "gender": "male", "pregnancy_status": "not pregnant", "chronic_conditions": [], "allergies": ["egg allergy"]}
+{"profile_id": 500, "age": 67, "gender": "female", "pregnancy_status": "not pregnant", "chronic_conditions": ["chronic hepatitis B", "osteoarthritis"], "allergies": ["NSAID allergy"]}

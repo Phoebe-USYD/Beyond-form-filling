@@ -1,0 +1,7 @@
+defaults:
+  - base
+  - _self_
+
+model_id: deepseek-ai/deepseek-llm-7b-chat
+module_name: models.deepseek
+class_name: Deepseek7B

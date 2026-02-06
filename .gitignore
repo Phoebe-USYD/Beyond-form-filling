@@ -1,0 +1,24 @@
+# ===== runtime outputs =====
+outputs/
+results/
+logs/
+
+# ===== datasets =====
+mydatasets/case_study_q.json
+mydatasets/test.json
+
+# ===== local notes =====
+note.txt
+
+# ===== python =====
+__pycache__/
+*.pyc
+
+# ===== env =====
+.env
+.venv
+
+run_eval.py
+run_output.sh
+README.md
+LICENSE

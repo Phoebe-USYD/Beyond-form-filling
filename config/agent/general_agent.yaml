@@ -1,0 +1,15 @@
+defaults:
+  - base
+  - _self_
+  
+use_text: true
+use_image: false
+
+system_prompt: | 
+  Your task is to use the retrieved text segments to accurately answer the user's question.
+
+  When responding:
+   - Base your reasoning entirely on the retrieved text
+   - Focus on capturing factual correctness, logical reasoning, and textual grounding.
+   - Be concise, use 2-4 sentences to answer the question directly.
+  Question: 

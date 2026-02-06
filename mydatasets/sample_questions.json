@@ -1,0 +1,1670 @@
+[
+  {
+    "question": "What are the common symptoms I might experience if I have anaemia?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "As a woman of reproductive age, why am I at higher risk of developing anaemia?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I'm pregnant, how might anaemia impact my pregnancy and my baby’s health?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How can iron deficiency cause anaemia and what are the main dietary sources of iron I should consider?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "How can infections like malaria or chronic conditions like cancer contribute to anaemia?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "If I have anaemia, should I be concerned about underlying causes like vitamin B12 or folate deficiency?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What are the possible health consequences if anaemia is left untreated for a long time?",
+    "group": "non-conditional"
+  },
+  {
+    "question": "How is anaemia diagnosed and what tests should I expect during a medical check-up?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "I was told I have mild anaemia—what steps should I take to improve my condition through diet or supplements?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How can I reduce my risk of developing anaemia if I follow a vegetarian or vegan diet?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What are the main health risks I should be aware of if I undergo an unsafe abortion?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I have an unintended pregnancy, what are my options for safe abortion care?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "Can having an abortion affect my ability to get pregnant again in the future?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "Is it true that using medication abortion pills without proper guidance can be dangerous?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I seek a safe abortion, what kind of support or information should I expect from a healthcare provider?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How can delays in accessing abortion care affect my physical or mental health?",
+    "group": "potential_conditional"
+  },
+   {
+    "question": "If I've already had more than one abortion, does that put me at greater health risk?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What is the difference between a safe and unsafe abortion in terms of procedure and setting?",
+    "group":"non_conditional"
+  },
+  {
+    "question": "Are adolescents more vulnerable to unsafe abortion, and if so, why?",
+    "group": "potential_conditional"
+  },
+   {
+    "question": "How can complications from unsafe abortion contribute to maternal deaths, especially in low-income and middle-income countries?",
+    "group":"non_conditional"
+  },
+  {
+    "question": "How can animal bites transmit rabies to humans?",
+    "group":"non_conditional"
+  },
+  {
+    "question": "Why are children more vulnerable to serious complications from animal bites?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "What should I do immediately after being bitten by an animal to reduce the risk of rabies?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "Why is it important to wash an animal bite wound thoroughly with soap and water?",
+    "group":"non_conditional"
+  },
+  {
+    "question": "In what situations should I seek post-exposure prophylaxis after an animal bite?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What types of vaccines or treatments are recommended after an animal bite if the rabies status of the animal is unknown?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How does vaccinating dogs help in reducing the burden of animal bites and rabies transmission?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "Can animal bites from species other than dogs also transmit serious infections like rabies?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "What measures can I take to prevent animal bites, especially if I work with animals or live in an area with many stray dogs?",
+    "group": "potential_conditional"
+  }, 
+  {
+    "question": "What are the main symptoms I might experience if I have an anxiety disorder?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How can anxiety disorders affect my ability to function at work or in school?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I have panic disorder, how are my physical symptoms like chest pain or shortness of breath related to anxiety?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What types of specific phobias are common in people with anxiety disorders?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "As a person who often avoids social situations, could I be experiencing a social anxiety disorder?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How does generalized anxiety disorder differ from other types of anxiety disorders?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "Can anxiety disorders increase my risk of other conditions like depression or substance use?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What are some common barriers that might prevent me from accessing care for anxiety disorders?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "If I have an anxiety disorder, what are some effective psychological treatments I should consider?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How can medications like antidepressants help manage symptoms of anxiety disorders?",
+    "group": "potential_conditional"
+  },
+   {
+    "question": "What are the most common symptoms I might experience if I have asthma?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How does asthma cause my airways to become inflamed and narrow during an attack?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "If I have asthma, how can exposure to cold air or allergens make my symptoms worse?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I often wake up at night with coughing or breathlessness, could it be a sign of asthma?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I live in a polluted urban area, am I more likely to develop asthma or have more frequent attacks?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How does asthma impact my ability to work or attend school regularly?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What medications are typically used to manage asthma and prevent attacks?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I'm using an inhaler for asthma, what's the difference between a reliever and a controller?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "Can untreated asthma lead to long-term damage in my lungs or breathing capacity?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "If my asthma symptoms suddenly get worse, what warning signs should I look out for before it becomes an emergency?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What symptoms might I notice if I have bacterial vaginosis, and can it sometimes cause no symptoms at all?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I have a thin white or grey vaginal discharge with a fishy smell, could it be bacterial vaginosis?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "Am I more likely to get bacterial vaginosis if I have multiple sexual partners or a new partner?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How does vaginal douching increase the risk of developing bacterial vaginosis?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "If I'm pregnant, how might bacterial vaginosis affect my baby or my pregnancy outcomes?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "Is it true that bacterial vaginosis can increase my risk of getting sexually transmitted infections like HIV?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "Can bacterial vaginosis increase my chances of complications after gynaecological surgery or procedures?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How is bacterial vaginosis diagnosed if I visit a clinic with symptoms?",
+    "group": "non_conditional"
+  },
+  {
+    "question": "Why does bacterial vaginosis often come back after treatment, and is there anything I can do to prevent recurrence?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I don't have symptoms, should I still get treated for bacterial vaginosis?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What are the main symptoms I might experience during a manic episode of bipolar disorder?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "If I often feel extremely happy or energetic followed by deep sadness, could that be a sign of bipolar disorder?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How is bipolar disorder different from general depression or anxiety?",
+    "group":"non_conditional"
+  },
+  {
+    "question": "Can bipolar disorder increase my risk of suicide or self-harm if left untreated?",
+    "group":"non_conditional"
+  },
+  {
+    "question": "If I have bipolar disorder, what are the chances I might also experience substance use issues?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "What kinds of psychological treatments can help me manage my bipolar disorder symptoms?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "How do mood stabilizers or other medications help treat bipolar disorder over the long term?",
+    "group":"non_conditional"
+  },
+  {
+    "question": "Is early diagnosis of bipolar disorder important in reducing its long-term effects on my mental health?",
+    "group":"non_conditional"
+  },
+  {
+    "question": "If I stop taking my medication for bipolar disorder when I feel better, could my symptoms return?",
+    "group": "potential_conditional"
+  },
+  {
+    "question": "Can bipolar disorder cause episodes where I feel irritable or make impulsive decisions that I later regret?",
+    "group":"non_conditional"
+  },
+   {
+    "question": "What are the most common symptoms I might experience if I have brucellosis?"
+  },
+  {
+    "question": "Can brucellosis cause long-term symptoms like chronic fatigue or joint pain?"
+  },
+  {
+    "question": "If I drink unpasteurized milk or eat raw dairy products, could I be at risk for brucellosis?"
+  },
+  {
+    "question": "How can brucellosis be transmitted through direct contact with infected animals or animal products?"
+  },
+  {
+    "question": "If I work in a slaughterhouse or handle livestock regularly, how can I protect myself from brucellosis?"
+  },
+  {
+    "question": "Can brucellosis affect my reproductive health, especially during pregnancy?"
+  },
+  {
+    "question": "How is brucellosis diagnosed if I have ongoing fever and muscle pain?"
+  },
+  {
+    "question": "What is the recommended treatment course for brucellosis, and does it involve long-term antibiotics?"
+  },
+  {
+    "question": "If I stop my antibiotics early, could brucellosis relapse or become chronic?"
+  },
+  {
+    "question": "How can I prevent brucellosis if I live in a rural area where the disease is more common?"
+  },
+  {
+    "question": "If I find it hard to see even with my glasses, could that suggest vision impairment or blindness?"
+  },
+  {
+    "question": "Which eye conditions such as cataract or uncorrected refractive error could lead to blindness or vision impairment?"
+  },
+  {
+    "question": "Am I at higher risk of blindness or vision impairment if I am over 50 years old?"
+  },
+  {
+    "question": "How might vision impairment affect my ability to work or learn as an adult?"
+  },
+  {
+    "question": "If I live in a low‑income country, am I more likely to have untreated vision impairment or blindness?"
+  },
+  {
+    "question": "Could early detection and correcting refractive error help prevent vision impairment or blindness?"
+  },
+  {
+    "question": "If I have diabetes, how could that increase my risk of vision impairment or blindness?"
+  },
+  {
+    "question": "What are the major causes of vision impairment or blindness that could have been prevented or treated?"
+  },
+  {
+    "question": "If I notice gradual deterioration in my peripheral vision, could that indicate glaucoma leading to vision impairment?"
+  },
+  {
+    "question": "Can regular eye examinations help detect vision impairment or blindness early, even if I don’t have symptoms?"
+  },
+  {
+    "question": "What symptoms might I experience if I have botulism, and how quickly do they appear after exposure?"
+  },
+  {
+    "question": "Can botulism cause breathing difficulties or paralysis if not treated in time?"
+  },
+  {
+    "question": "How can eating improperly preserved or canned food lead to foodborne botulism?"
+  },
+  {
+    "question": "If I recently had surgery or a wound, how could that increase my risk of wound botulism?"
+  },
+  {
+    "question": "What makes infants more vulnerable to botulism from sources like honey or dust?"
+  },
+  {
+    "question": "Is botulism contagious from person to person or only through specific sources like food or wounds?"
+  },
+  {
+    "question": "If I have botulism symptoms, how is the disease diagnosed and confirmed in a clinical setting?"
+  },
+  {
+    "question": "What treatments are available for botulism, and how does antitoxin therapy work?"
+  },
+  {
+    "question": "Can I recover fully from botulism, and how long might rehabilitation take after severe symptoms?"
+  },
+  {
+    "question": "How can I prevent foodborne botulism when preparing or storing home-canned or fermented foods?"
+  },
+  {
+    "question": "If I notice a lump or thickening in my breast, could that be a sign of breast cancer?"
+  },
+  {
+    "question": "Which risk factors such as age, alcohol use or family history increase my chances of developing breast cancer?"
+  },
+  {
+    "question": "Can men also develop breast cancer and how common is male breast cancer compared to female breast cancer?"
+  },
+  {
+    "question": "If breast cancer is left untreated, how might it spread to other parts of the body and what symptoms could that cause?"
+  },
+  {
+    "question": "Why are survival rates for breast cancer higher in high‑income countries compared to low‑ and middle‑income countries?"
+  },
+  {
+    "question": "What role does early detection play in improving outcomes for breast cancer?"
+  },
+  {
+    "question": "What are the main treatment options for breast cancer, and how do they differ based on the cancer’s spread?"
+  },
+  {
+    "question": "If a breast cancer tumour tests positive for hormone receptors, how might treatment differ for that subtype?"
+  },
+  {
+    "question": "Why is obesity or harmful use of alcohol listed as a modifiable risk factor for breast cancer?"
+  },
+  {
+    "question": "If I am over 50 years old, how does age affect my risk of breast cancer compared to younger women?"
+  },
+    {
+    "question": "What kind of bacteria causes campylobacteriosis in humans?"
+  },
+  {
+    "question": "How soon after eating contaminated food do symptoms of Campylobacter infection usually appear?"
+  },
+  {
+    "question": "What are the main symptoms people experience when they have campylobacteriosis?"
+  },
+  {
+    "question": "Can Campylobacter infection be transmitted through drinking untreated water?"
+  },
+  {
+    "question": "Which animal products are most often linked to human Campylobacter infection?"
+  },
+  {
+    "question": "How can cross-contamination during food preparation lead to Campylobacter infection?"
+  },
+  {
+    "question": "Who is more likely to develop severe illness or complications from Campylobacter infection?"
+  },
+  {
+    "question": "Is antibiotic treatment always necessary for people infected with Campylobacter?"
+  },
+  {
+    "question": "What possible complications can occur after a Campylobacter infection?"
+  },
+  {
+    "question": "How can proper cooking and kitchen hygiene help prevent campylobacteriosis at home?"
+  },
+   {
+    "question": "Can burns from hot water or cooking oil at home be serious enough to need hospital care?"
+  },
+  {
+    "question": "Why are women and children more likely to get burned at home?"
+  },
+  {
+    "question": "What are the most common causes of burns at home?"
+  },
+  {
+    "question": "What are common causes of burns at work or in public places?"
+  },
+  {
+    "question": "Can a serious burn injury lead to long-term financial or health problems?"
+  },
+  {
+    "question": "What should I do immediately after I get a burn to reduce damage?"
+  },
+  {
+    "question": "What are some things I should avoid doing after a burn to prevent complications?"
+  },
+  {
+    "question": "How can I reduce my risk of burns if I cook over an open flame?"
+  },
+  {
+    "question": "What types of burns are most common in young children at home?"
+  },
+  {
+    "question": "Does living in a house without proper cooking or heating equipment increase the chance of getting burned?"
+  },
+  {
+    "question": "What exactly are cardiovascular diseases and which specific conditions fall under this category of cardiovascular diseases?"
+  },
+  {
+    "question": "If I suddenly experience chest pain and shortness of breath, could that be a sign of cardiovascular diseases such as a heart attack or stroke?"
+  },
+  {
+    "question": "How does an unhealthy diet rich in salt and fat increase my risk of developing cardiovascular diseases?"
+  },
+  {
+    "question": "If I have high blood pressure or high blood sugar, how does that raise my risk of cardiovascular diseases?"
+  },
+  {
+    "question": "Why is tobacco use or harmful use of alcohol listed as behavioural risk factors for cardiovascular diseases?"
+  },
+  {
+    "question": "How do raised blood lipids, overweight or obesity act as intermediate risk factors in cardiovascular diseases?"
+  },
+  {
+    "question": "What prevention steps like eating more fruit and vegetables or reducing salt can help reduce the risk of cardiovascular diseases?"
+  },
+  {
+    "question": "If I live in an area with high air pollution, how might that environmental factor affect my risk of cardiovascular diseases?"
+  },
+  {
+    "question": "Could a heart attack or stroke be the first symptom of underlying cardiovascular diseases even when I had no previous warning signs?"
+  },
+  {
+    "question": "If cardiovascular diseases are left undetected, what are the possible severe consequences like heart failure or death?"
+  },
+   {
+    "question": "What exactly is cervical cancer and where does it develop in the body?"
+  },
+  {
+    "question": "If I notice bleeding between periods, after menopause, or after sexual intercourse, could that be a symptom of cervical cancer?"
+  },
+  {
+    "question": "How does persistent infection with high‑risk human papillomavirus (HPV) lead to cervical cancer?"
+  },
+  {
+    "question": "Which risk factors such as HIV infection or smoking increase the chances of developing cervical cancer?"
+  },
+  {
+    "question": "How effective is HPV vaccination for preventing cervical cancer when given to girls aged 9‑14 years?"
+  },
+  {
+    "question": "If I am screened for cervical cancer from the age of 30, how does this help prevent cervical cancer progression?"
+  },
+  {
+    "question": "Can cervical cancer be cured if it is detected and treated early?"
+  },
+  {
+    "question": "What are some treatment methods like cryotherapy or LEEP used for precancerous lesions of cervical cancer?"
+  },
+  {
+    "question": "If cervical cancer is left untreated, what serious consequences might I face?"
+  },
+  {
+    "question": "If I have HIV and also persistent HPV infection, how much higher is my risk of developing cervical cancer compared to the general population?"
+  },
+   {
+    "question": "What is Chagas disease and what parasite causes it?"
+  },
+  {
+    "question": "If I have Chagas disease, what symptoms might I experience during the acute phase?"
+  },
+  {
+    "question": "How is Chagas disease transmitted through insect‑bite, foodborne, congenital or blood transfusion routes?"
+  },
+  {
+    "question": "What risk factors increase the chance of developing Chagas disease after infection?"
+  },
+  {
+    "question": "What long‑term consequences can Chagas disease have on the heart or digestive system if untreated?"
+  },
+  {
+    "question": "How can screening of blood donors and organ recipients help prevent Chagas disease?"
+  },
+  {
+    "question": "Which drugs are used to treat Chagas disease and when is treatment most effective?"
+  },
+  {
+    "question": "Why is early diagnosis of Chagas disease critical to preventing progression to chronic complications?"
+  },
+  {
+    "question": "What role does vector‑control (kissing bug control) play in preventing Chagas disease?"
+  },
+  {
+    "question": "In the chronic phase of Chagas disease, what kinds of heart or digestive alterations might appear?"
+  },
+  {
+    "question": "What is chikungunya and which virus causes this disease?"
+  },
+  {
+    "question": "If I’m bitten by a mosquito carrying chikungunya, how long until I might notice symptoms of chikungunya?"
+  },
+  {
+    "question": "What are the typical symptoms of chikungunya including joint pain and fever?"
+  },
+  {
+    "question": "How is chikungunya transmitted by Aedes mosquitoes and what makes it different from dengue in transmission?"
+  },
+  {
+    "question": "If I recover from chikungunya once, am I likely to be immune to future chikungunya infections?"
+  },
+  {
+    "question": "What treatment options exist for chikungunya and how are they used to alleviate symptoms?"
+  },
+  {
+    "question": "If I live or travel to an area with chikungunya transmission, what prevention measures should I take to avoid contracting chikungunya?"
+  },
+  {
+    "question": "What risk groups, such as babies or older people with other health issues, are more likely to get severe chikungunya disease?"
+  },
+  {
+    "question": "If I suspect I have chikungunya, how is the diagnosis of chikungunya made?"
+  },
+  {
+    "question": "What kinds of long‑term or chronic consequences might occur after a chikungunya infection?"
+  },
+  {
+    "question": "What is chlamydia and which bacterium causes this disease?"
+  },
+  {
+    "question": "If I have chlamydia and no symptoms, how long might it be before I notice any signs of chlamydia infection?"
+  },
+  {
+    "question": "What symptoms should I look for in women if I might have chlamydia?"
+  },
+  {
+    "question": "How is chlamydia transmitted through sexual contact or from mother to baby?"
+  },
+  {
+    "question": "What risk factors increase my chance of getting chlamydia?"
+  },
+  {
+    "question": "If chlamydia is left untreated, what serious health consequences could this disease cause?"
+  },
+  {
+    "question": "How is chlamydia diagnosed in someone who may have chlamydia but no symptoms?"
+  },
+  {
+    "question": "What treatments are available for chlamydia and how can treatment prevent further chlamydia complications?"
+  },
+  {
+    "question": "What prevention steps should I take to avoid getting chlamydia during vaginal or anal sex?"
+  },
+  {
+    "question": "If I’m pregnant and test positive for chlamydia, how can this disease affect my baby?"
+  },
+    {
+    "question": "What exactly is chronic obstructive pulmonary disease (COPD) and how is airflow restricted in this condition?"
+  },
+  {
+    "question": "If I have COPD, what symptoms might I experience such as breathing difficulty or chronic cough?"
+  },
+  {
+    "question": "How does exposure to tobacco smoke or indoor air pollution lead to developing COPD?"
+  },
+  {
+    "question": "What are the known risk factors for COPD besides smoking, such as occupational dusts or early life lung growth issues?"
+  },
+  {
+    "question": "How can COPD be treated with inhalers, oxygen and pulmonary rehabilitation even though it cannot be cured?"
+  },
+  {
+    "question": "What lifestyle changes should I make if I have COPD to improve my symptoms and everyday functioning?"
+  },
+  {
+    "question": "If I have COPD, what other health conditions like lung infections or heart problems am I at higher risk of?"
+  },
+  {
+    "question": "How does COPD progress over time and what does a flare‑up signify in someone living with COPD?"
+  },
+  {
+    "question": "What diagnostic test is recommended to confirm COPD and why might it not be available in some settings?"
+  },
+  {
+    "question": "How does avoiding smoking and indoor air pollution help slow the worsening of COPD symptoms?"
+  },
+  {
+    "question": "What does the term “colorectal cancer” refer to in terms of the organs involved in the disease?"
+  },
+  {
+    "question": "Which age group is most commonly affected by colorectal cancer and how does age influence the risk?"
+  },
+  {
+    "question": "What are the common symptoms someone with colorectal cancer might experience once the disease is advanced?"
+  },
+  {
+    "question": "Which family history or genetic conditions increase the risk of developing colorectal cancer?"
+  },
+  {
+    "question": "What lifestyle factors are identified as increasing the risk of colorectal cancer?"
+  },
+  {
+    "question": "What primary prevention steps are recommended to reduce the risk of colorectal cancer?"
+  },
+  {
+    "question": "What secondary prevention (screening) methods are described for early detection of colorectal cancer?"
+  },
+  {
+    "question": "How are cases of colorectal cancer diagnosed once screening or symptoms raise suspicion?"
+  },
+  {
+    "question": "What treatment options are indicated for early-stage colorectal cancer compared with metastatic disease?"
+  },
+  {
+    "question": "What is the prognosis difference between early‐stage and advanced‐stage colorectal cancer?"
+  },
+   {
+    "question": "What does the term COVID-19 refer to in terms of the virus that causes the disease?"
+  },
+  {
+    "question": "What are the most common symptoms someone with COVID-19 may experience and when do they typically begin?"
+  },
+  {
+    "question": "How does COVID-19 spread between people and what kind of contact carries the risk?"
+  },
+  {
+    "question": "Which underlying health conditions make a person more likely to become seriously ill with COVID-19?"
+  },
+  {
+    "question": "What serious consequences can occur from COVID-19 in people who develop severe illness?"
+  },
+  {
+    "question": "What preventive measures can someone take to reduce their risk of acquiring COVID-19?"
+  },
+  {
+    "question": "How do vaccines for COVID-19 affect the risk of severe illness or death from the disease?"
+  },
+  {
+    "question": "What is the typical recovery outlook for someone who gets COVID-19 and does not require hospital treatment?"
+  },
+  {
+    "question": "How long after exposure to the virus that causes COVID-19 do symptoms usually appear, and how long can they last?"
+  },
+  {
+    "question": "What exactly is dengue and which mosquito species are primarily responsible for transmitting the disease?"
+  },
+  {
+    "question": "What are the typical symptoms someone with dengue might experience, and how soon after mosquito-bite do they generally appear?"
+  },
+  {
+    "question": "How does a prior dengue infection with one serotype influence the risk of developing severe dengue in a subsequent infection?"
+  },
+  {
+    "question": "What serious complications define severe dengue once the initial dengue illness progresses?"
+  },
+  {
+    "question": "What environmental and social risk-factors increase a person’s chances of getting dengue?"
+  },
+  {
+    "question": "What diagnostic methods are used to confirm a dengue infection in the early phase of illness?"
+  },
+  {
+    "question": "Why is there no specific treatment for dengue, and what is the recommended pain-relief strategy for someone infected with dengue?"
+  },
+  {
+    "question": "What global burden does dengue currently present in terms of risk population, endemic regions, and number of cases reported?"
+  },
+  {
+    "question": "What preventive personal protection steps can an individual take to reduce their risk of getting dengue?"
+  },
+  {
+    "question": "Why is controlling mosquito breeding sites important for dengue prevention, and what measures are suggested to remove these breeding habitats?"
+  },
+   {
+    "question": "What is depressive disorder and how is it distinguished from normal mood changes?"
+  },
+  {
+    "question": "What symptoms might a person with depressive disorder experience for most of the day, nearly every day, for at least two weeks?"
+  },
+  {
+    "question": "Which population groups are more commonly affected by depressive disorder and how prevalent is it among adults?"
+  },
+  {
+    "question": "What social, psychological and biological factors contribute to the development of depressive disorder?"
+  },
+  {
+    "question": "How does having a chronic physical illness influence the risk of developing depressive disorder?"
+  },
+  {
+    "question": "What personal actions can I take in daily life to help prevent or reduce the risk of developing depressive disorder?"
+  },
+  {
+    "question": "What diagnostic or treatment approaches are effective for moderate to severe depressive disorder?"
+  },
+  {
+    "question": "What role does self-care play in managing symptoms of depressive disorder and maintaining well-being?"
+  },
+  {
+    "question": "What serious consequences are associated with untreated depressive disorder including thoughts or acts of self-harm?"
+  },
+  {
+    "question": "How are mild depressive disorder and severe depressive disorder treated differently in terms of medication use?"
+  },
+   {
+    "question": "What is diabetes and how does it develop in terms of insulin production or use?"
+  },
+  {
+    "question": "What are the typical symptoms someone with diabetes might experience when their blood sugar is high?"
+  },
+  {
+    "question": "What is the difference between type 1 and type 2 diabetes in terms of cause and characteristics?"
+  },
+  {
+    "question": "What risk factors increase a person’s chances of developing diabetes?"
+  },
+  {
+    "question": "What major long-term damage can occur in someone with diabetes if it is uncontrolled?"
+  },
+  {
+    "question": "How is diabetes diagnosed using simple tests in primary care settings?"
+  },
+  {
+    "question": "What treatment elements are recommended for someone living with diabetes in terms of lifestyle and medication?"
+  },
+  {
+    "question": "Why is early diagnosis of diabetes important for health outcomes over time?"
+  },
+  {
+    "question": "What is the global prevalence or burden of diabetes?"
+  },
+  {
+    "question": "What can an individual do in daily life to help prevent the onset of type 2 diabetes?"
+  },
+  {
+    "question": "What is Ebola disease and which viruses are known to cause large outbreaks of it?"
+  },
+  {
+    "question": "What are the early symptoms of Ebola disease and within what time frame after exposure do they usually appear?"
+  },
+  {
+    "question": "How is Ebola disease transmitted from animals to humans and then between people?"
+  },
+  {
+    "question": "Which bodily fluids or conditions present the highest risk for human-to-human transmission of Ebola disease?"
+  },
+  {
+    "question": "What diagnostic tests are used to confirm a case of Ebola disease?"
+  },
+  {
+    "question": "What treatment options exist for Ebola disease and how does early supportive care improve survival?"
+  },
+  {
+    "question": "What preventive measures can a person take to reduce the risk of contracting Ebola disease from wildlife and infected people?"
+  },
+  {
+    "question": "What major complications or consequences can arise in someone suffering from Ebola disease?"
+  },
+  {
+    "question": "How long can the incubation period of Ebola disease be, and does a person become infectious before symptoms appear?"
+  },
+  {
+    "question": "If someone in my community is infected with Ebola disease, what steps can I take to protect myself and my family?"
+  },
+  {
+    "question": "What is endometriosis and where does the endometrium-like tissue grow in the body?"
+  },
+  {
+    "question": "What are the common symptoms of endometriosis during periods or sexual activity?"
+  },
+  {
+    "question": "What causes endometriosis and why is the immune system thought to play a role?"
+  },
+  {
+    "question": "How is endometriosis diagnosed and why can it take years to confirm?"
+  },
+  {
+    "question": "How can endometriosis affect fertility or daily life?"
+  },
+  {
+    "question": "Is there any way to prevent endometriosis from developing?"
+  },
+  {
+    "question": "What treatment options are available for endometriosis?"
+  },
+  {
+    "question": "How common is endometriosis among women and people who menstruate?"
+  },
+  {
+    "question": "How does endometriosis impact mental and sexual health?"
+  },
+  {
+    "question": "If I have ongoing pelvic pain, when should I see a doctor to check for endometriosis?"
+  },
+   {
+    "question": "What is epilepsy and how is it caused by abnormal brain activity?"
+  },
+  {
+    "question": "What are the main symptoms someone with epilepsy may experience during a seizure?"
+  },
+  {
+    "question": "What health conditions can lead to epilepsy?"
+  },
+  {
+    "question": "How is epilepsy diagnosed by healthcare professionals?"
+  },
+  {
+    "question": "What medicines are used to control seizures in people with epilepsy?"
+  },
+  {
+    "question": "What can happen if epilepsy is not properly treated?"
+  },
+  {
+    "question": "Can head injuries increase the risk of developing epilepsy?"
+  },
+  {
+    "question": "How does epilepsy affect a person’s ability to work or attend school?"
+  },
+  {
+    "question": "Why do some people with epilepsy face social stigma?"
+  },
+  {
+    "question": "If I have epilepsy, what daily habits can help me prevent seizures?"
+  },
+   {
+    "question": "What are fragility fractures and how are they defined by the type of trauma involved?"
+  },
+  {
+    "question": "Which parts of the body are most commonly affected by fragility fractures?"
+  },
+  {
+    "question": "What modifiable risk factors increase the chance of suffering a fragility fracture?"
+  },
+  {
+    "question": "What non-modifiable risk factors are associated with fragility fractures?"
+  },
+  {
+    "question": "How is low bone mineral density or osteoporosis related to fragility fractures?"
+  },
+  {
+    "question": "What primary prevention strategies can help reduce the risk of fragility fractures?"
+  },
+  {
+    "question": "Why is early diagnosis and treatment important after a fragility fracture has occurred?"
+  },
+  {
+    "question": "What comorbid conditions worsen outcomes in someone who has a fragility fracture?"
+  },
+  {
+    "question": "How can health-care providers predict an individual’s risk of a fragility fracture?"
+  },
+  {
+    "question": "If I am older and concerned about bone health, what lifestyle changes should I make to prevent fragility fractures?"
+  },
+   {
+    "question": "What is hepatitis A and how is the disease caused by the hepatitis A virus?"
+  },
+  {
+    "question": "What are the symptoms of hepatitis A and how soon after exposure do they generally appear?"
+  },
+  {
+    "question": "How is hepatitis A transmitted and which behaviours increase the risk of infection?"
+  },
+  {
+    "question": "Who is at risk of getting hepatitis A if they have not been vaccinated or previously infected?"
+  },
+  {
+    "question": "How is hepatitis A diagnosed using blood tests or other laboratory methods?"
+  },
+  {
+    "question": "What treatment options are available for hepatitis A and how long might recovery take?"
+  },
+  {
+    "question": "What prevention measures can help protect someone from hepatitis A infection?"
+  },
+  {
+    "question": "What severe consequence can occur in older individuals with hepatitis A despite it not causing chronic liver disease?"
+  },
+  {
+    "question": "How does poor sanitation or unsafe water contribute to the risk of hepatitis A infection?"
+  },
+  {
+    "question": "If I am travelling to an area with poor hygiene conditions, what should I do to reduce my risk of hepatitis A?"
+  },
+   {
+    "question": "What is HIV infection?"
+  },
+  {
+    "question": "What is AIDS?"
+  },
+  {
+    "question": "What body fluids can transmit HIV?"
+  },
+  {
+    "question": "What are the early symptoms of HIV infection?"
+  },
+  {
+    "question": "How is HIV infection diagnosed?"
+  },
+  {
+    "question": "What does antiretroviral therapy do for people living with HIV?"
+  },
+  {
+    "question": "What happens to the immune system if HIV infection is not treated?"
+  },
+  {
+    "question": "How can HIV infection be prevented through safe sexual practices?"
+  },
+  {
+    "question": "Can a pregnant person with HIV pass the virus to their baby?"
+  },
+  {
+    "question": "Why is it important for someone with HIV to take their medicine every day?"
+  },
+   {
+    "question": "What is herpes simplex virus infection?"
+  },
+  {
+    "question": "What are the two main types of the herpes simplex virus?"
+  },
+  {
+    "question": "What symptoms appear during the first outbreak of herpes simplex virus infection?"
+  },
+  {
+    "question": "How is herpes simplex virus infection transmitted?"
+  },
+  {
+    "question": "What factors can trigger a recurrence of herpes simplex virus infection?"
+  },
+  {
+    "question": "What complications can herpes simplex virus infection cause in people with weakened immune systems?"
+  },
+  {
+    "question": "What is neonatal herpes simplex virus infection?"
+  },
+  {
+    "question": "When is the risk of neonatal herpes simplex virus infection highest?"
+  },
+  {
+    "question": "Why can herpes simplex virus infection spread even when no sores are visible?"
+  },
+  {
+    "question": "What treatments are available for herpes simplex virus infection?"
+  },
+  {
+    "question": "What is human papillomavirus infection?"
+  },
+  {
+    "question": "Which types of human papillomavirus are considered high-risk for causing cancer?"
+  },
+  {
+    "question": "What are the common symptoms of human papillomavirus infection?"
+  },
+  {
+    "question": "How is human papillomavirus transmitted from one person to another?"
+  },
+  {
+    "question": "What long-term consequence can persistent high-risk human papillomavirus infection lead to?"
+  },
+  {
+    "question": "What preventive vaccine exists for human papillomavirus infection?"
+  },
+  {
+    "question": "What screening method is used for detecting human papillomavirus-related cervical disease?"
+  },
+  {
+    "question": "What behavioural factor increases the risk of persistent human papillomavirus infection?"
+  },
+  {
+    "question": "Why do most human papillomavirus infections not cause any symptoms?"
+  },
+  {
+    "question": "If I have not been vaccinated for human papillomavirus, what action can I take to protect against related cancer?"
+  },
+   {
+    "question": "What is HTLV-1 infection?"
+  },
+  {
+    "question": "How is HTLV-1 transmitted?"
+  },
+  {
+    "question": "What are the main clinical conditions caused by HTLV-1?"
+  },
+  {
+    "question": "What is the lifetime risk of developing adult T-cell leukaemia/lymphoma (ATL) in someone infected with HTLV-1?"
+  },
+  {
+    "question": "What diagnostic methods are used to detect HTLV-1 infection?"
+  },
+  {
+    "question": "Does an effective antiviral treatment currently exist for HTLV-1 infection?"
+  },
+  {
+    "question": "What prevention options exist to reduce mother-to-child transmission of HTLV-1?"
+  },
+  {
+    "question": "Which bodily fluids are implicated in the sexual transmission of HTLV-1?"
+  },
+  {
+    "question": "How does HTLV-1 infection affect people with weakened immune systems?"
+  },
+  {
+    "question": "If I share needles, how does that impact my risk of acquiring HTLV-1?"
+  },
+  {
+    "question": "What is hypertension and how is it defined in terms of blood pressure levels?"
+  },
+  {
+    "question": "What are the modifiable risk factors for hypertension?"
+  },
+  {
+    "question": "What are the non-modifiable risk factors associated with hypertension?"
+  },
+  {
+    "question": "Why might someone with hypertension have no symptoms?"
+  },
+  {
+    "question": "What symptoms can occur when blood pressure becomes very high (for example 180/120 mmHg or higher)?"
+  },
+  {
+    "question": "What lifestyle changes can help treat hypertension?"
+  },
+  {
+    "question": "What medication types are commonly used to treat hypertension?"
+  },
+  {
+    "question": "What serious complications can uncontrolled hypertension cause?"
+  },
+  {
+    "question": "How is hypertension diagnosed by health professionals?"
+  },
+  {
+    "question": "What prevention steps can an individual take to reduce the risk of developing hypertension?"
+  },
+    {
+    "question": "What is seasonal influenza and what virus causes the disease?"
+  },
+  {
+    "question": "What are the typical symptoms of seasonal influenza?"
+  },
+  {
+    "question": "How is seasonal influenza transmitted between people?"
+  },
+  {
+    "question": "Which groups of people are at greater risk of severe seasonal influenza?"
+  },
+  {
+    "question": "What is the incubation period for seasonal influenza?"
+  },
+  {
+    "question": "Why do some people recover in about a week from seasonal influenza?"
+  },
+  {
+    "question": "What serious complications can result from seasonal influenza?"
+  },
+  {
+    "question": "What preventive measures can an individual take to protect themselves from seasonal influenza?"
+  },
+  {
+    "question": "Why is annual vaccination recommended for seasonal influenza?"
+  },
+  {
+    "question": "If I have seasonal influenza symptoms, what should I do to manage them at home?"
+  },
+  {
+    "question": "What is Japanese encephalitis and which virus causes it?"
+  },
+  {
+    "question": "What is the incubation period for Japanese encephalitis?"
+  },
+  {
+    "question": "How is Japanese encephalitis transmitted?"
+  },
+  {
+    "question": "What are the common symptoms of Japanese encephalitis in children?"
+  },
+  {
+    "question": "What serious complication can occur in someone with Japanese encephalitis?"
+  },
+  {
+    "question": "Which age group is most affected by Japanese encephalitis?"
+  },
+  {
+    "question": "Is there a specific cure for Japanese encephalitis?"
+  },
+  {
+    "question": "What preventive vaccine is available for Japanese encephalitis?"
+  },
+  {
+    "question": "Which environment or living condition increases the risk of Japanese encephalitis?"
+  },
+  {
+    "question": "What long-term outcome may happen after a severe case of Japanese encephalitis?"
+  },
+  {
+    "question": "What is Lassa fever?"
+  },
+  {
+    "question": "Which animal hosts the Lassa virus and how can humans become infected?"
+  },
+  {
+    "question": "What is the incubation period for Lassa fever?"
+  },
+  {
+    "question": "What symptoms may someone with Lassa fever experience in the early phase?"
+  },
+  {
+    "question": "What serious complications may occur in severe Lassa fever cases?"
+  },
+  {
+    "question": "How is Lassa fever transmitted between people?"
+  },
+  {
+    "question": "What diagnostic tests are used to confirm Lassa fever infection?"
+  },
+  {
+    "question": "What treatment is available for Lassa fever?"
+  },
+  {
+    "question": "What prevention measures can reduce the risk of Lassa fever from rodents?"
+  },
+  {
+    "question": "Why is early recognition of Lassa fever important for survival?"
+  },
+   {
+    "question": "What is Legionellosis?"
+  },
+  {
+    "question": "Which bacterium most commonly causes Legionellosis?"
+  },
+  {
+    "question": "How is Legionellosis transmitted through water systems?"
+  },
+  {
+    "question": "What is the incubation period for Legionnaires’ disease, the pneumonic form of Legionellosis?"
+  },
+  {
+    "question": "What are the main symptoms of Legionnaires’ disease?"
+  },
+  {
+    "question": "Which groups of patients are at higher risk of severe Legionellosis?"
+  },
+  {
+    "question": "What serious complications can untreated Legionellosis lead to?"
+  },
+  {
+    "question": "How is Legionellosis treated?"
+  },
+  {
+    "question": "What preventive actions help reduce the growth of Legionella in water systems?"
+  },
+  {
+    "question": "Is a vaccine available for Legionellosis?"
+  },
+   {
+    "question": "What is leprosy and which bacterium causes it?"
+  },
+  {
+    "question": "What parts of the body does leprosy primarily affect?"
+  },
+  {
+    "question": "How is leprosy transmitted between people?"
+  },
+  {
+    "question": "What are the early signs of leprosy in the skin or nerves?"
+  },
+  {
+    "question": "Is leprosy curable and what therapy is used to treat it?"
+  },
+  {
+    "question": "What happens if leprosy is left untreated?"
+  },
+  {
+    "question": "How is leprosy diagnosed in a suspected patient?"
+  },
+  {
+    "question": "What preventive measures can reduce the risk of leprosy for contacts of cases?"
+  },
+  {
+    "question": "Why do persons affected by leprosy often face social stigma?"
+  },
+  {
+    "question": "Which non-modifiable risk factors increase the risk of developing leprosy disability?"
+  },
+   {
+    "question": "What is listeriosis and which bacteria cause it?"
+  },
+  {
+    "question": "How is listeriosis transmitted through food?"
+  },
+  {
+    "question": "Which foods are often associated with listeriosis contamination?"
+  },
+  {
+    "question": "What are the two main forms of listeriosis?"
+  },
+  {
+    "question": "What symptoms appear in the invasive form of listeriosis?"
+  },
+  {
+    "question": "Which groups of people are at highest risk of severe listeriosis?"
+  },
+  {
+    "question": "What is the incubation period for invasive listeriosis?"
+  },
+  {
+    "question": "How is listeriosis diagnosed in a clinical setting?"
+  },
+  {
+    "question": "What treatment is used for severe listeriosis cases?"
+  },
+  {
+    "question": "What preventive measures should pregnant women follow to avoid listeriosis?"
+  },
+  {
+    "question": "What is low back pain and where in the body does it occur?"
+  },
+  {
+    "question": "What are the common symptoms of low back pain?"
+  },
+  {
+    "question": "How long must pain in low back pain last to be considered chronic?"
+  },
+  {
+    "question": "What are the main modifiable risk factors for non-specific low back pain?"
+  },
+  {
+    "question": "What does ‘non-specific’ low back pain mean?"
+  },
+  {
+    "question": "What serious complications or consequences can uncontrolled low back pain cause?"
+  },
+  {
+    "question": "What types of treatment are typically used for non-specific low back pain?"
+  },
+  {
+    "question": "What self-care actions can someone take to manage their low back pain?"
+  },
+  {
+    "question": "Which age group has the highest number of low back pain cases?"
+  },
+  {
+    "question": "Why is low back pain a significant public health problem?"
+  },
+  {
+    "question": "What is lung cancer and how does it develop in the body?"
+  },
+  {
+    "question": "What are the most common symptoms of lung cancer that people should watch for?"
+  },
+  {
+    "question": "Is tobacco smoking the main cause of lung cancer?"
+  },
+  {
+    "question": "How does exposure to second-hand smoke increase the risk of developing lung cancer?"
+  },
+  {
+    "question": "Can lung cancer be caused by indoor air pollution from cooking fuels?"
+  },
+  {
+    "question": "How is outdoor air pollution linked to the development of lung cancer?"
+  },
+  {
+    "question": "What are the most effective ways to prevent lung cancer?"
+  },
+  {
+    "question": "What treatment options are available for people diagnosed with lung cancer?"
+  },
+  {
+    "question": "What are the long-term effects or consequences of untreated lung cancer?"
+  },
+  {
+    "question": "How likely is a person to survive lung cancer if it is detected early?"
+  },
+   {
+    "question": "What is malaria and how is it caused by Plasmodium parasites?"
+  },
+  {
+    "question": "What are the main symptoms of malaria after a person gets infected?"
+  },
+  {
+    "question": "Can malaria lead to death if it is not treated promptly?"
+  },
+  {
+    "question": "How does malaria affect pregnant women and their unborn babies?"
+  },
+  {
+    "question": "Which mosquito species is responsible for transmitting malaria to humans?"
+  },
+  {
+    "question": "How does malaria transmission vary between high and low transmission areas?"
+  },
+  {
+    "question": "What kind of medication is used to prevent malaria in travelers?"
+  },
+  {
+    "question": "How does insecticide-treated mosquito nets help prevent malaria infection?"
+  },
+  {
+    "question": "Can a malaria vaccine be used to protect children in high-risk areas?"
+  },
+  {
+    "question": "How soon after a mosquito bite do malaria symptoms usually appear?"
+  },
+  {
+    "question": "What is malnutrition and what are its main types?"
+  },
+  {
+    "question": "Can malnutrition include both undernutrition and overweight conditions?"
+  },
+  {
+    "question": "What are the health consequences of severe wasting in children with malnutrition?"
+  },
+  {
+    "question": "How does malnutrition affect child growth and development?"
+  },
+  {
+    "question": "What is stunting in the context of malnutrition and how is it different from wasting?"
+  },
+  {
+    "question": "Can deficiencies in vitamins and minerals be a form of malnutrition?"
+  },
+  {
+    "question": "How does malnutrition increase the risk of death from common childhood illnesses?"
+  },
+  {
+    "question": "Why is exclusive breastfeeding for the first 6 months important in preventing malnutrition?"
+  },
+  {
+    "question": "How do unhealthy food environments contribute to the risk of overweight and obesity in malnutrition?"
+  },
+  {
+    "question": "Is it possible for a child to be both stunted and overweight due to malnutrition?"
+  },
+    {
+    "question": "What is measles and what virus causes it?"
+  },
+  {
+    "question": "What are the common symptoms of measles during the first few days of infection?"
+  },
+  {
+    "question": "How is measles transmitted from one person to another?"
+  },
+  {
+    "question": "Can measles be spread through the air even after the infected person has left the room?"
+  },
+  {
+    "question": "What are the possible severe complications caused by measles in children?"
+  },
+  {
+    "question": "Can measles infection lead to blindness or brain swelling?"
+  },
+  {
+    "question": "Why are unvaccinated young children at high risk of getting measles?"
+  },
+  {
+    "question": "How does malnutrition increase the danger of measles in children?"
+  },
+  {
+    "question": "How effective is the measles vaccine in preventing the disease?"
+  },
+  {
+    "question": "Can adults also get measles if they have not been vaccinated or previously infected?"
+  },
+   {
+    "question": "What is meningitis and what part of the body does it affect?"
+  },
+  {
+    "question": "What are the most common symptoms of meningitis in children and adults?"
+  },
+  {
+    "question": "Can meningitis be caused by both bacteria and viruses?"
+  },
+  {
+    "question": "How does bacterial meningitis differ from viral meningitis in terms of severity?"
+  },
+  {
+    "question": "Can meningitis be transmitted from person to person through respiratory droplets?"
+  },
+  {
+    "question": "Which groups of people are most at risk for contracting meningitis?"
+  },
+  {
+    "question": "Can meningitis lead to long-term consequences such as hearing loss or brain damage?"
+  },
+  {
+    "question": "How quickly can bacterial meningitis become life-threatening after symptoms begin?"
+  },
+  {
+    "question": "Can vaccines help prevent certain types of meningitis?"
+  },
+  {
+    "question": "Is meningitis more likely to spread in crowded living conditions like dormitories?"
+  },
+  {
+    "question": "What are headache disorders and how are they classified?"
+  },
+  {
+    "question": "What symptoms are typically associated with migraine attacks?"
+  },
+  {
+    "question": "Can tension-type headache cause sensitivity to light or sound like migraine does?"
+  },
+  {
+    "question": "What distinguishes cluster headache from other types of headache disorders?"
+  },
+  {
+    "question": "Are headache disorders more common in certain age groups or sexes?"
+  },
+  {
+    "question": "Can headache disorders lead to significant disability or impaired quality of life?"
+  },
+  {
+    "question": "Is migraine considered a neurological condition that can be inherited?"
+  },
+  {
+    "question": "Can medication overuse trigger chronic headache disorders?"
+  },
+  {
+    "question": "How do stress and lifestyle factors contribute to headache disorders?"
+  },
+  {
+    "question": "Is it possible to prevent migraine attacks through behavioral or medical approaches?"
+  },
+    {
+    "question": "What is multiple sclerosis and how does it affect the central nervous system?"
+  },
+  {
+    "question": "What are the most common symptoms of multiple sclerosis in early stages?"
+  },
+  {
+    "question": "Can multiple sclerosis cause problems with balance and coordination?"
+  },
+  {
+    "question": "Does multiple sclerosis result from the immune system attacking the brain and spinal cord?"
+  },
+  {
+    "question": "Are there different types of multiple sclerosis with varying progression patterns?"
+  },
+  {
+    "question": "Can people with multiple sclerosis experience periods of relapse and remission?"
+  },
+  {
+    "question": "What long-term consequences can multiple sclerosis lead to if not managed properly?"
+  },
+  {
+    "question": "Is multiple sclerosis more common in women than in men?"
+  },
+  {
+    "question": "Can environmental or genetic factors contribute to the development of multiple sclerosis?"
+  },
+  {
+    "question": "Is multiple sclerosis typically diagnosed in young adults aged 20 to 40?"
+  },
+  {
+    "question": "What is the difference between overweight and obesity in terms of body mass index?"
+  },
+  {
+    "question": "Can obesity increase the risk of developing cardiovascular diseases?"
+  },
+  {
+    "question": "How does childhood obesity affect long-term health in adulthood?"
+  },
+  {
+    "question": "Can obesity increase the chances of musculoskeletal disorders such as osteoarthritis?"
+  },
+  {
+    "question": "Is there a link between obesity and the development of certain cancers?"
+  },
+  {
+    "question": "Can a high intake of energy-dense foods contribute to overweight and obesity?"
+  },
+  {
+    "question": "How does lack of physical activity increase the risk of becoming obese?"
+  },
+  {
+    "question": "Are children in urban areas more likely to develop obesity due to lifestyle changes?"
+  },
+  {
+    "question": "Can obesity in children lead to early onset of type 2 diabetes?"
+  },
+  {
+    "question": "Is unhealthy weight gain mainly caused by an imbalance between calories consumed and calories used?"
+  },
+    {
+    "question": "What is osteoarthritis and which parts of the body are most commonly affected?"
+  },
+  {
+    "question": "Can osteoarthritis cause swelling, stiffness, and reduced joint mobility?"
+  },
+  {
+    "question": "Is osteoarthritis more likely to affect the knees, hips, and hands than other joints?"
+  },
+  {
+    "question": "Can osteoarthritis lead to chronic pain that affects sleep and daily activities?"
+  },
+  {
+    "question": "Does the risk of developing osteoarthritis increase with age?"
+  },
+  {
+    "question": "Can excess body weight contribute to the development of osteoarthritis?"
+  },
+  {
+    "question": "Are women more likely than men to develop osteoarthritis, especially after menopause?"
+  },
+  {
+    "question": "Can joint injuries or physically demanding occupations increase the risk of osteoarthritis?"
+  },
+  {
+    "question": "Is osteoarthritis a major cause of disability and reduced quality of life worldwide?"
+  },
+  {
+    "question": "Can osteoarthritis symptoms gradually worsen over time if not managed properly?"
+  },
+    {
+    "question": "What is Parkinson disease and how does it affect the brain?"
+  },
+  {
+    "question": "What are the main motor symptoms of Parkinson disease?"
+  },
+  {
+    "question": "Can Parkinson disease cause problems beyond movement symptoms?"
+  },
+  {
+    "question": "What causes the neurons to stop producing dopamine in Parkinson disease?"
+  },
+  {
+    "question": "Is there a known cure for Parkinson disease?"
+  },
+  {
+    "question": "What are the risk factors that increase the chance of developing Parkinson disease?"
+  },
+  {
+    "question": "Is Parkinson disease more common in older people?"
+  },
+  {
+    "question": "Can exercise help manage symptoms of Parkinson disease?"
+  },
+  {
+    "question": "How does Parkinson disease affect quality of life over time?"
+  },
+  {
+    "question": "What treatments are available to help people with Parkinson disease?"
+  },
+  {
+    "question": "What is rabies and how does it affect the nervous system?"
+  },
+  {
+    "question": "What are the early symptoms of rabies in humans?"
+  },
+  {
+    "question": "How is rabies transmitted from animals to humans?"
+  },
+  {
+    "question": "Which animals are the most common sources of rabies infections in people?"
+  },
+  {
+    "question": "How long is the incubation period for rabies after a bite?"
+  },
+  {
+    "question": "What are the neurological consequences if rabies symptoms appear?"
+  },
+  {
+    "question": "Why is rabies nearly always fatal once clinical symptoms begin?"
+  },
+  {
+    "question": "What should I do immediately if I am bitten by an animal that may have rabies?"
+  },
+  {
+    "question": "Is rabies more common in children compared to adults?"
+  },
+  {
+    "question": "Can timely vaccination after exposure prevent rabies infection?"
+  },
+  {
+    "question": "What percentage of reproductive‑aged women are estimated to be affected by polycystic ovary syndrome (PCOS)?"
+  },
+  {
+    "question": "How is polycystic ovary syndrome (PCOS) described in terms of onset and its course over time?"
+  },
+  {
+    "question": "What are the typical symptoms of polycystic ovary syndrome (PCOS) related to menstrual and ovulation changes?"
+  },
+  {
+    "question": "What signs of elevated androgen levels might a woman with polycystic ovary syndrome (PCOS) experience?"
+  },
+  {
+    "question": "Which long‑term health conditions are women with polycystic ovary syndrome (PCOS) more likely to develop?"
+  },
+  {
+    "question": "What is meant by the term “rheumatic heart disease” (RHD)?"
+  },
+  {
+    "question": "What are the main risk factors for developing rheumatic heart disease?"
+  },
+  {
+    "question": "Which symptoms may a person with rheumatic heart disease experience due to damaged heart valves?"
+  },
+  {
+    "question": "How does a prior episode of Rheumatic fever lead to the development of rheumatic heart disease?"
+  },
+  {
+    "question": "What are the potential long‑term health consequences of untreated rheumatic heart disease?"
+  },
+  {
+    "question": "How can rheumatic heart disease be prevented at the stage of a streptococcal throat infection?"
+  },
+  {
+    "question": "What social or environmental conditions increase the risk of rheumatic heart disease?"
+  },
+  {
+    "question": "What is the standard approach to prevent progression of rheumatic heart disease once the heart valves are damaged?"
+  },
+  {
+    "question": "Which specific population group is particularly vulnerable to complications from rheumatic heart disease during pregnancy?"
+  },
+  {
+    "question": "Why is rheumatic heart disease described as a ‘serious yet preventable’ public‑health problem?"
+  }
+]

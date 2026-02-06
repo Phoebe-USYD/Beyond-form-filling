@@ -1,0 +1,7 @@
+defaults:
+  - base
+  - _self_
+
+model_id: gpt-4o-mini
+module_name: models.openai
+class_name: GPTOpenAI

@@ -1,0 +1,6 @@
+defaults:
+  - base
+  - _self_
+
+model_id: claude-3-haiku-20240307
+module_name: anthropic

@@ -1,0 +1,7 @@
+defaults:
+  - base
+  - _self_
+
+model_id: mistralai/Mistral-7B-Instruct-v0.3
+module_name: models.mistral
+class_name: Mistral7
